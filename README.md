@@ -1,7 +1,7 @@
 ## Hey👋 my name is Diego
 
 
-- 💻 I'm a Computer Science student at IBMR
+- 💻 I am a Computer Science student at IBMR
 - 🔭 I’m studying Python to be a Back-End developer
 - 📬 You can reach me by my [LinkedIn](https://www.linkedin.com/in/diego-alejandro-8b21173b6)
 

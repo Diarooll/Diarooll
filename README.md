@@ -1,8 +1,8 @@
 ## Hey👋 my name is Diego
 
 
-- 💻 I am a Computer Science student at IBMR
-- 🔭 I’m studying Python to be a Back-End developer
+- 💻 I am a Software Engineering student at FIAP
+- 🔭 Studying Java for web application
 - 📬 You can reach me by my [LinkedIn](https://www.linkedin.com/in/diego-alejandro-8b21173b6)
 
 ## Tech Stack 💻

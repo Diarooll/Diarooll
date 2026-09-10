@@ -1,7 +1,7 @@
 ## Hey👋 my name is Diego
 
 
-- 💻 I am a Software Engineering student at FIAP
+- 💻 I'm a Software Engineering student at FIAP
 - 🔭 Studying Java for web application
 - 📬 You can reach me by my [LinkedIn](https://www.linkedin.com/in/diego-alejandro-8b21173b6)
 

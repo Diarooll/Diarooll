@@ -3,8 +3,7 @@
 Software Engineering student at **FIAP**, focused on **back-end development with Java**. I'm studying a lot, building real projects along the way, and also taking on freelance front-end work.
 
 - 🎓 Software Engineering @ FIAP
-- ☕ Learning **Java + Spring Boot** for web applications and REST APIs
-- 🌧️ Building **ALERA**, a rain-risk alert system for Juiz de Fora (MG)
+- ☕ Learning **Java + Spring Boot, Python + Django** for web applications and REST APIs
 - 💼 Freelance: built the landing page for a parking business in Rio de Janeiro
 - 🌐 Portfolio: [diego-olalla.vercel.app](https://diego-olalla.vercel.app/)
 - 📬 Reach me on [LinkedIn](https://www.linkedin.com/in/diego-alejandro-8b21173b6)

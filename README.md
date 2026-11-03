@@ -18,7 +18,7 @@ Software Engineering student at **FIAP**, focused on **back-end development with
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 **Front-end**
 
@@ -47,10 +47,6 @@ Software Engineering student at **FIAP**, focused on **back-end development with
 <p align="center">
   <img src="assets/level.svg" alt="My GitHub level, based on total commits" />
 </p>
-
-![Followers](https://img.shields.io/github/followers/Diarooll?style=flat-square&label=followers)
-![Public repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Diarooll&query=$.public_repos&label=public%20repos&style=flat-square)
-![Top language](https://img.shields.io/github/languages/top/Diarooll/organizador-provas?style=flat-square&label=top%20language)
 
 ---
 

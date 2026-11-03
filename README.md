@@ -45,6 +45,10 @@ Software Engineering student at **FIAP**, focused on **back-end development with
 
 ## 📊 GitHub
 
+<p align="center">
+  <img src="assets/level.svg" alt="My GitHub level, based on total commits" />
+</p>
+
 ![Followers](https://img.shields.io/github/followers/Diarooll?style=flat-square&label=followers)
 ![Public repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Diarooll&query=$.public_repos&label=public%20repos&style=flat-square)
 ![Top language](https://img.shields.io/github/languages/top/Diarooll/organizador-provas?style=flat-square&label=top%20language)

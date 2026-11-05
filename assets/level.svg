@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="495" height="150" viewBox="0 0 495 150" role="img" aria-label="GitHub level 2: Apprentice, 128 commits">
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="150" viewBox="0 0 495 150" role="img" aria-label="GitHub level 2: Apprentice, 104 commits">
   <defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#58a6ff"/><stop offset="1" stop-color="#a371f7"/></linearGradient></defs>
   <rect width="495" height="150" rx="10" fill="#0d1117" stroke="#30363d"/>
   <g font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif">
     <text x="25" y="38" font-size="13" fill="#8b949e" letter-spacing="1.5">GITHUB LEVEL</text>
     <text x="25" y="78" font-size="32" font-weight="700" fill="#f0f6fc">Lv. 2 <tspan fill="url(#g)">Apprentice</tspan></text>
-    <text x="470" y="78" font-size="28" font-weight="700" fill="#f0f6fc" text-anchor="end">128</text>
+    <text x="470" y="78" font-size="28" font-weight="700" fill="#f0f6fc" text-anchor="end">104</text>
     <text x="470" y="96" font-size="12" fill="#8b949e" text-anchor="end">commits</text>
     <rect x="25" y="108" width="300" height="10" rx="5" fill="#21262d"/>
-    <rect x="25" y="108" width="234.0" height="10" rx="5" fill="url(#g)"/>
-    <text x="25" y="138" font-size="12" fill="#8b949e">22 commits to Developer</text>
+    <rect x="25" y="108" width="162.0" height="10" rx="5" fill="url(#g)"/>
+    <text x="25" y="138" font-size="12" fill="#8b949e">46 commits to Developer</text>
   </g>
 </svg>
